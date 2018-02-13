@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1088985644879",
+    "firebase_url": "https://bolashak-a811e.firebaseio.com",
+    "project_id": "bolashak-a811e",
+    "storage_bucket": "bolashak-a811e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088985644879:android:17aeeac10313b2db",
+        "android_client_info": {
+          "package_name": "com.example.bagdat.softwareenproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088985644879-rmfm1b4vppgv5u52hpmhnmqeds0eaujo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bagdat.softwareenproject",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1088985644879-6biiq7abrkk68cquu82o690ctk5abanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWuUb_BkfDMhcVbWaJ3938tcOIu-gtAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088985644879-6biiq7abrkk68cquu82o690ctk5abanm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088985644879:android:692651f5888f6eb6",
+        "android_client_info": {
+          "package_name": "com.example.diana.bolashak_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088985644879-rv980r3ph31r9ru5sscluhimlkrrsu0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diana.bolashak_beta",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1088985644879-6biiq7abrkk68cquu82o690ctk5abanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWuUb_BkfDMhcVbWaJ3938tcOIu-gtAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088985644879-6biiq7abrkk68cquu82o690ctk5abanm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
